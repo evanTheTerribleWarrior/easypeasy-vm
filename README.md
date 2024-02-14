@@ -10,3 +10,5 @@ Simply check the build guide under `guides` section that includes all the steps.
 A build script is included that should take care of installing all the services, creating the relevant users with appropriate permissions and starting the app itself.
 
 It has been tested on Ubuntu 20.04 LTS
+
+Walkthrough guide is also included!
